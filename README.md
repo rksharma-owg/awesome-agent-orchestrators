@@ -250,3 +250,11 @@ A watchlist of projects without a push in the last few months (checked 2026-07-2
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents. _(last commit 2026-04)_
 - [wit](https://github.com/amaar-mc/wit) - Locks individual functions rather than files via Tree-sitter, warning agents of conflicts before they write. _(last commit 2026-03)_
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run the Ralph Wiggum loop over your roadmap. _(last commit 2026-04)_
+
+## Contributing
+
+Contributions are welcome! Please ensure:
+- The tool or framework orchestrates coding or general-purpose autonomous agents.
+- Links point directly to the open-source repository or active project homepage.
+- Entries are added in alphabetical order under their respective section.
+
