@@ -255,6 +255,14 @@ A watchlist of projects without a push in the last few months (checked 2026-07-2
 
 Contributions are welcome! Please ensure:
 - The tool or framework orchestrates coding or general-purpose autonomous agents.
+- Single-purpose bots, memory stores, and MCP tools should be added only if they include native agent orchestration loops.
 - Links point directly to the open-source repository or active project homepage.
 - Entries are added in alphabetical order under their respective section.
+
+### Format
+
+```markdown
+- [name](https://github.com/org/repo) - Short description highlighting orchestration model, supported agents, and distinctive capabilities.
+```
+
 
